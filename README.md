@@ -1,16 +1,19 @@
-## Hi there 👋
+ Automation QA Engineer | Mobile & Web Testing | Agile & API Testing Specialist
 
-<!--
-**prathamesh7301/prathamesh7301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced QA Engineer with a strong focus on ensuring product quality across mobile and web platforms. Skilled in designing and executing comprehensive test strategies, with expertise in:
 
-Here are some ideas to get you started:
+    - Functional, regression, end-to-end, and cross-platform testing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    - API validation and debugging using Charles Proxy, HTTP Toolkit, and ADB logs
+
+    - JSON payload verification and backend workflow testing
+
+    - Defect tracking and collaboration using Jira
+
+    - Performance testing and system optimization
+
+    - Agile methodologies, including active participation in daily stand-ups, sprint planning, and retrospectives
+
+    - Maintaining test documentation aligned with SDLC and compliance standards
+
+    - Committed to delivering reliable, user-centric solutions through detail-oriented testing and close collaboration with cross-functional teams.
