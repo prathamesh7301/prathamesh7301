@@ -1,4 +1,4 @@
- Automation QA Engineer | Mobile & Web Testing | Agile & API Testing Specialist
+** Automation QA Engineer | Mobile & Web Testing | Agile & API Testing Specialist**
 
 Experienced QA Engineer with a strong focus on ensuring product quality across mobile and web platforms. Skilled in designing and executing comprehensive test strategies, with expertise in:
 
